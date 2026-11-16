@@ -1,5 +1,11 @@
 # Token Radar — make.fun token-radar-01
 
+[![make.fun](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/4bill/token-radar/rank.svg)](https://make.fun/bounty/token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/4bill/token-radar/reward.svg)](https://make.fun/bounty/token-radar-01)
+
+Entry for the [make.fun token-radar-01 bounty](https://make.fun/bounty/token-radar-01).
+
 A ranked radar of pre-token DeFi protocols: every protocol on the snapshot's watchlist
 plus the pre-token protocols below its floor, ranked by an implied value computed from
 TVL, seven-day growth and how long the protocol has run with no token on record.
